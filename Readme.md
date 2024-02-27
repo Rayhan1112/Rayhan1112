@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rayhan Shaikh</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
+<img align="right" alt="icon" width="500" height="330" 
+src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan1112&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan1112" /> </p>
 
 - 🔭 I’m currently working on **Real Estate Reseller**
