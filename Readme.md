@@ -1,3 +1,4 @@
+![logo](https://github.com/Rayhan1112/Rayhan1112/blob/main/Dark%20Teal%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rayhan Shaikh</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
