@@ -7,9 +7,9 @@ src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhan1112&label=Profile%20views&color=0e75b6&style=flat" alt="rayhan1112" /> </p>
 
-- 🔭 I’m currently working on **Real Estate Reseller**
+- 🔭 I’m currently working on **NewsApp with DataScience**
 
-- 🌱 I’m currently learning **Flutter and ReactJS**
+- 🌱 I’m currently learning **React JS & React Native**
 
 - 👯 I’m looking to collaborate on **FreeLearn**
 
