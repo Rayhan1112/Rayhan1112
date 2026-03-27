@@ -14,13 +14,14 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently building **NewsApp with User Tracking System**
-- 🌱 Learning **React.js, React Native & System Design**
-- 👯 Open to collaborations on **FreeLearn**
-- 💬 Ask me about **Full Stack, Flutter, Firebase, Node.js, Scalable Architecture**
-- 📫 Reach me at: **shaikhrayhan479@gmail.com**
-- ⚡ Fun fact: *Code is my gym, bugs are my workout* 😄
-
+- 🚀 **Product Builder** focused on crafting end-to-end digital experiences
+- 🎨 Skilled in **UI/UX Design, Product Planning & System Thinking**
+- 💻 Entry Level in Full Stack Development (React, Flutter, Node.js, Firebase)
+- 🧪 Focus on **Testing, Performance & Scalable Architecture**
+- 🚀 Passionate about **Deployment, Optimization & Real-world Product Impact**
+- 💬 Ask me about Building Products from Idea → Launch
+- 📫 Reach me at: shaikhrayhan479@gmail.com
+- ⚡ Fun fact: Code is my gym, bugs are my workout 😄
 ---
 
 ## 🌐 Connect With Me
@@ -39,7 +40,7 @@
 ## 🛠 Tech Stack
 
 ### 🚀 Frontend
-`HTML` `CSS` `JavaScript` `React` `React Native` `Flutter`
+`React` `React Native` `Flutter`
 
 ### ⚙ Backend
 `Node.js` `Express.js` `Firebase` `.NET`
